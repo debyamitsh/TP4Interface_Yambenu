@@ -1,0 +1,13 @@
+1.Forcer	la	redéfinition
+qui force au programmeur	à	réutiliser	des	fonctionnalités	déjà	prédéfinies
+dans	 les	 bibliothèques	 d’utilitaires	 du	 langage.
+
+2.Permettre	le	multihéritage
+Plusieurs	 interfaces	 seront	 très	 souvent	 implémentées	 en
+même	temps.	De	 fait,	 un	autre	apport	 des	interfaces	est	 d’avoir	levé	l’interdiction	 du
+multihéritage	 :	 d’interdit	 pour	 les	 classes,	 il	 devient	 autorisé	 pour	 les	 interfaces.
+
+3.La	carte	de	visite	de	l’objet
+L’interface	peut	s’assimiler	à	la	carte	de	visite	d’une	classe	(et	de	tous	les
+objets	auxquels	elle	donne	naissance),	qu’un	développeur	d’une	autre	classe	consulte	et
+s’engage	 à	 respecter	 dans	 la	 conception	 de	 la	 sienne.
