@@ -1,0 +1,2 @@
+Oui,Les classes doivent cacher leurs implementations et
+ne peuvent devoiler que leurs interfaces.

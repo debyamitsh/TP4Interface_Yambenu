@@ -1,0 +1,5 @@
+/**
+ * Une méthode ne peut être déclarée comme «
+ * private » dans une interface.
+ * Il manque la methode faire3A dans la classe A
+ */
